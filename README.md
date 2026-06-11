@@ -23,12 +23,12 @@ A separate **[Program Portfolio](#program-portfolio)** documents program-level w
 | 3 | [Droogle — Drug Research & Contracting Intelligence](/Projects/2023_06_cigna-droogle-drug-research-platform.md) | Cigna | Product Owner | Agile / Scrum | 06/2023 – 08/2023 | 3 |
 | 4 | [AI Vendor Evaluation Program — Cigna Ventures](/Projects/2024_01_cigna-ventures-vendor-vetting.md) | Cigna / Cigna Ventures | Technical Due Diligence Lead | Structured Evaluation | 01/2024 – 07/2024 | 7 |
 | 5 | [MDLive Virtual Care AI Automation](/Projects/2024_08_cigna-mdlive-virtual-care-ai-automation.md) | Cigna | Technical Project Lead | Hybrid Agile / Compliance-Gated | 08/2024 – 03/2025 | 8 |
-| 6 | [MDLive BH Psychiatry Billing Categorization](/Projects/2025_04_cigna-mdlive-bh-psychiatry-billing.md) | Cigna | Engineering Project Management Lead | Hybrid POC / Compliance-Gated | 04/2025 – 08/2025 | 5 |
+| 6 | [MDLive BH Psychiatry Billing Categorization](/Projects/2025_04_cigna-mdlive-bh-psychiatry-billing.md) | Cigna | Engineering Project Management Lead | Hybrid POC / Compliance-Gated | 04/2025 – 10/2025 | 7 |
 | 7 | [Profound GEO — Vendor Solution Rollout](/Projects/2025_12_cigna-profound-geo-rollout.md) | Cigna | IT Project Manager | Hybrid Stage-Gated | 12/2025 – 04/2026 | 5 |
 | 8 | [Adobe Veo — Generative AI Enablement Rollout](/Projects/2026_02_cigna-adobe-veo-rollout.md) | Cigna | IT Project Manager | Hybrid Stage-Gated | 02/2026 – 05/2026 | 4* |
-| | | | | | **Non-overlapping total** | **36** |
+| | | | | | **Non-overlapping total** | **38** |
 
-\* Adobe Veo (02/2026 – 05/2026) overlaps the Profound rollout in Feb–Apr 2026. PMI counts overlapping calendar time once, so Veo is documented as additional evidence above the 36-month requirement rather than as additive months. The 36-month total is met by projects 1–7 with no overlap.
+\* Adobe Veo (02/2026 – 05/2026) overlaps the Profound rollout in Feb–Apr 2026. PMI counts overlapping calendar time once, so Veo is documented as additional evidence above the 38-month base rather than as additive months. The non-overlapping total of 38 months is met by projects 1–7, clearing the 36-month requirement with margin.
 
 ---
 
@@ -36,7 +36,7 @@ A separate **[Program Portfolio](#program-portfolio)** documents program-level w
 
 ![PMP Portfolio Timeline](./timeline.png)
 
-*The 36-month requirement is met by non-overlapping projects 1–7. All experience falls within the 8-year PMI eligibility window.*
+*The 36-month requirement is met with margin by non-overlapping projects 1–7 (38 months). All experience falls within the 8-year PMI eligibility window.*
 
 > **Note:** `timeline.png` still reflects the prior portfolio structure and should be regenerated to match the eight projects above.
 
@@ -183,7 +183,7 @@ Once we hit MVP, two HIH engineers joined and we set up a proper Dev/Prod pipeli
 |---|---|
 | Organization | Cigna |
 | Role | Engineering Project Management Lead |
-| Dates | 04/2025 – 08/2025 |
+| Dates | 04/2025 – 10/2025 |
 | Budget | Internal labor / AI gateway consumption |
 | Team Size | 3 |
 | Methodology | Hybrid POC / Compliance-Gated |

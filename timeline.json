@@ -1,0 +1,88 @@
+{
+  "title": "PMP Portfolio Timeline",
+  "subtitle": "36-month requirement met with margin (38 mo) by non-overlapping PMP projects",
+  "eligibility_window": {
+    "start": "2018-03",
+    "end": "2026-05",
+    "label": "8-year PMI eligibility window"
+  },
+  "categories": {
+    "pmp": {
+      "label": "PMP Project (counts toward 36 months)",
+      "color": "#2563eb"
+    },
+    "pmp_overlap": {
+      "label": "PMP Project (evidence above requirement; overlaps another project)",
+      "color": "#93c5fd"
+    },
+    "program": {
+      "label": "Program (PgMP-aligned; does not count toward PMP months)",
+      "color": "#b45309"
+    }
+  },
+  "entries": [
+    {
+      "name": "My Cigna Chef",
+      "org": "Cigna",
+      "start": "2022-06",
+      "end": "2022-08",
+      "category": "pmp"
+    },
+    {
+      "name": "Circle of Care",
+      "org": "Evernorth",
+      "start": "2022-09",
+      "end": "2023-01",
+      "category": "pmp"
+    },
+    {
+      "name": "Droogle",
+      "org": "Cigna",
+      "start": "2023-06",
+      "end": "2023-08",
+      "category": "pmp"
+    },
+    {
+      "name": "AI Vendor Evaluation",
+      "org": "Cigna Ventures",
+      "start": "2024-01",
+      "end": "2024-07",
+      "category": "pmp"
+    },
+    {
+      "name": "MDLive Virtual Care AI",
+      "org": "Cigna",
+      "start": "2024-08",
+      "end": "2025-03",
+      "category": "pmp"
+    },
+    {
+      "name": "MDLive BH Psychiatry Billing",
+      "org": "Cigna",
+      "start": "2025-04",
+      "end": "2025-10",
+      "category": "pmp"
+    },
+    {
+      "name": "Profound GEO Rollout",
+      "org": "Cigna",
+      "start": "2025-12",
+      "end": "2026-04",
+      "category": "pmp"
+    },
+    {
+      "name": "Adobe Veo Rollout",
+      "org": "Cigna",
+      "start": "2026-02",
+      "end": "2026-05",
+      "category": "pmp_overlap"
+    },
+    {
+      "name": "TECDP Recruiting Program",
+      "org": "Cigna",
+      "start": "2025-05",
+      "end": "2026-05",
+      "category": "program"
+    }
+  ]
+}

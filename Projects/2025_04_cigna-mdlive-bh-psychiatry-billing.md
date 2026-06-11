@@ -15,9 +15,9 @@
 | **Project Team Size**          | 3 (self as project lead plus two engineers, with clinical and billing stakeholders)                                                         |
 | **Project Budget**             | Internal labor and AI gateway consumption; no discrete capital budget                                                                        |
 | **Project Start Date**         | 04/2025                                                                                                                                      |
-| **Project End Date**           | 08/2025                                                                                                                                      |
-| **Duration (months)**          | 5                                                                                                                                            |
-| **Counts Toward PMP Months**   | Yes, 5 months (no overlap with other documented projects)                                                                                    |
+| **Project End Date**           | 10/2025                                                                                                                                      |
+| **Duration (months)**          | 7                                                                                                                                            |
+| **Counts Toward PMP Months**   | Yes, 7 months (no overlap with other documented projects)                                                                                    |
 
 ---
 
