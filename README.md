@@ -1,18 +1,20 @@
 # PMP Project Management Portfolio
 
-This repository documents my project management experience as part of my application for the **Project Management Professional (PMP)** certification through PMI. Each entry maps to PMBOK 7th Edition terminology and the 2021 PMP Examination Content Outline.
+This repository documents my project management experience as part of my application for the **Project Management Professional (PMP)** certification through PMI. Each project entry maps to PMBOK 7th Edition terminology and the 2021 PMP Examination Content Outline.
 
 ---
 
 ## Background
 
-I have a 4-year degree, so PMI requires 36 non-overlapping months of project leadership experience within the last 8 years. The six projects here get me there across healthcare, AI, and marketing — spanning roles from Project Manager and Product Owner to technical lead and program-level governance.
+I have a 4-year degree, so PMI requires 36 non-overlapping months of project leadership experience within the last 8 years. The eight individual projects in the PMP portfolio below get me there across healthcare, clinical AI, AI governance, and marketing technology, spanning roles from Project Manager and Product Owner to technical and project lead.
 
-Each project file has everything PMI wants to see: the standard application fields, process group and knowledge area coverage, a stakeholder map, a risk register, tools used, lessons learned, and a 200-500 word narrative written for the application itself.
+Each project file has everything PMI wants to see: the standard application fields, process group and knowledge area coverage, a stakeholder map, a risk register, tools used, lessons learned, and a narrative written for the application itself. Every entry documents a single, discrete project from initiation through closing, as PMI requires.
+
+A separate **[Program Portfolio](#program-portfolio)** documents program-level work. That experience aligns to program management (PgMP) rather than PMP, so it is kept separate and does **not** count toward the PMP project-month total.
 
 ---
 
-## Experience Summary
+## PMP Experience Summary
 
 | # | Project | Organization | Role | Methodology | Dates | Months |
 |---|---|---|---|---|---|---|
@@ -21,8 +23,12 @@ Each project file has everything PMI wants to see: the standard application fiel
 | 3 | [Droogle — Drug Research & Contracting Intelligence](/Projects/2023_06_cigna-droogle-drug-research-platform.md) | Cigna | Product Owner | Agile / Scrum | 06/2023 – 08/2023 | 3 |
 | 4 | [AI Vendor Evaluation Program — Cigna Ventures](/Projects/2024_01_cigna-ventures-vendor-vetting.md) | Cigna / Cigna Ventures | Technical Due Diligence Lead | Structured Evaluation | 01/2024 – 07/2024 | 7 |
 | 5 | [MDLive Virtual Care AI Automation](/Projects/2024_08_cigna-mdlive-virtual-care-ai-automation.md) | Cigna | Technical Project Lead | Hybrid Agile / Compliance-Gated | 08/2024 – 03/2025 | 8 |
-| 6 | [Enterprise AI Enablement Program](/Projects/2025_04_cigna-ai-enablement-program.md) | Cigna | AI Enablement Engineer | Program Management | 04/2025 – 03/2026 | 12 |
-| | | | | | **Total** | **38** |
+| 6 | [MDLive BH Psychiatry Billing Categorization](/Projects/2025_04_cigna-mdlive-bh-psychiatry-billing.md) | Cigna | Engineering Project Management Lead | Hybrid POC / Compliance-Gated | 04/2025 – 08/2025 | 5 |
+| 7 | [Profound GEO — Vendor Solution Rollout](/Projects/2025_12_cigna-profound-geo-rollout.md) | Cigna | IT Project Manager | Hybrid Stage-Gated | 12/2025 – 04/2026 | 5 |
+| 8 | [Adobe Veo — Generative AI Enablement Rollout](/Projects/2026_02_cigna-adobe-veo-rollout.md) | Cigna | IT Project Manager | Hybrid Stage-Gated | 02/2026 – 05/2026 | 4* |
+| | | | | | **Non-overlapping total** | **36** |
+
+\* Adobe Veo (02/2026 – 05/2026) overlaps the Profound rollout in Feb–Apr 2026. PMI counts overlapping calendar time once, so Veo is documented as additional evidence above the 36-month requirement rather than as additive months. The 36-month total is met by projects 1–7 with no overlap.
 
 ---
 
@@ -30,32 +36,34 @@ Each project file has everything PMI wants to see: the standard application fiel
 
 ![PMP Portfolio Timeline](./timeline.png)
 
-*No two projects overlap. All experience falls within the 8-year PMI eligibility window (March 2018 – March 2026).*
+*The 36-month requirement is met by non-overlapping projects 1–7. All experience falls within the 8-year PMI eligibility window.*
+
+> **Note:** `timeline.png` still reflects the prior portfolio structure and should be regenerated to match the eight projects above.
 
 ---
 
 ## Domain and Methodology Coverage
 
-| | Healthcare IT | Healthcare Analytics | Healthcare Data | AI Governance | Clinical AI | Ventures / Procurement |
+| | Healthcare IT | Healthcare Analytics | Healthcare Data | Clinical AI | AI Governance / Vendor | Marketing AI |
 |---|---|---|---|---|---|---|
 | **Agile / Scrum** | My Cigna Chef | Droogle | Circle of Care | | | |
-| **Hybrid** | | | | | MDLive | |
-| **Structured Evaluation** | | | | | | Vendor Vetting |
-| **Program Management** | | | | AI Enablement | | |
+| **Hybrid / Compliance-Gated** | | | | MDLive Virtual Care · BH Billing | | |
+| **Structured Evaluation** | | | | | Vendor Vetting | |
+| **Hybrid Stage-Gated** | | | | | Profound | Adobe Veo |
 
 ---
 
 ## PMI Process Group Coverage
 
-All five PMBOK process groups are represented in every project entry.
+All five PMBOK process groups are represented in every PMP project entry.
 
 | Process Group | Coverage |
 |---|---|
-| Initiating (IN) | All 6 projects |
-| Planning (PL) | All 6 projects |
-| Executing (EX) | All 6 projects |
-| Monitoring & Controlling (MC) | All 6 projects |
-| Closing (CL) | All 6 projects |
+| Initiating (IN) | All 8 projects |
+| Planning (PL) | All 8 projects |
+| Executing (EX) | All 8 projects |
+| Monitoring & Controlling (MC) | All 8 projects |
+| Closing (CL) | All 8 projects |
 
 ---
 
@@ -168,28 +176,65 @@ Once we hit MVP, two HIH engineers joined and we set up a proper Dev/Prod pipeli
 
 ---
 
-### 6. Enterprise AI Enablement Program
-**[View full project file](/Projects/2025_04_cigna-ai-enablement-program.md)**
+### 6. MDLive BH Psychiatry Billing Categorization
+**[View full project file](/Projects/2025_04_cigna-mdlive-bh-psychiatry-billing.md)**
 
 | Field | Detail |
 |---|---|
 | Organization | Cigna |
-| Role | AI Enablement Engineer |
-| Dates | 04/2025 – 03/2026 |
-| Budget | N/A (enterprise risk mitigation program) |
-| Team Size | 4 (covering 400+ projects enterprise-wide) |
-| Methodology | Program Management / Hybrid compliance-gated |
+| Role | Engineering Project Management Lead |
+| Dates | 04/2025 – 08/2025 |
+| Budget | Internal labor / AI gateway consumption |
+| Team Size | 3 |
+| Methodology | Hybrid POC / Compliance-Gated |
 
-Every AI solution that ships at Cigna has to pass through a governance pipeline before it goes to production. My job is to run that pipeline for my portion of the portfolio. That means kickoff calls with product teams, architecture reviews, vendor safety questionnaire coordination for anything with an external AI dependency, evidence review across end-to-end testing, safety and fairness, bias, adversarial, and load testing, and ultimately the production sign-off decision.
+MDLive behavioral health psychiatry consults were being billed through a manual coding process. Correct billing under Medical Decision Making (MDM) standards depends on factors like the complexity of the patient's history and the time spent in the consult, and getting it wrong creates compliance and revenue risk. The objective was a system that could categorize a consult to the correct MDM-based billing level automatically.
 
-I have formal approval authority. Nothing in my portfolio goes to production without my sign-off, and everything that gets approved has a complete audit trail behind it in case something goes wrong down the road.
+The defining constraint was that the system could not use the consult transcript. It had to reach the right billing category from metadata alone, specifically the patient's prior history and the time spent in the meeting. I led a team of three to prove the approach as a POC, validated its output against known-correct billing categories with the billing function, and then rolled it out to physicians. Because the system lived on the backend rather than a physician-facing surface, the rollout was clean and low-risk.
 
-Over the last year I have managed about 130 of these across a 4-person team covering 400+ projects total. The work also started running into a gap in the existing framework: agentic AI does not fit neatly into the governance model built for traditional ML. I have been part of the team effort to adapt the framework to cover those cases.
+**Outcome:** Delivered and rolled out a validated backend categorization system that automated MDM-based billing categorization from history and consult duration alone, with risks inventoried and stakeholder sign-off before go-live.
 
-**Outcomes:**
-- 130+ AI projects approved through personal portfolio
-- Complete audit trail maintained on all approvals
-- Contributed to governance framework updates for agentic AI architectures
+---
+
+### 7. Profound GEO — Vendor Solution Rollout
+**[View full project file](/Projects/2025_12_cigna-profound-geo-rollout.md)**
+
+| Field | Detail |
+|---|---|
+| Organization | Cigna |
+| Role | IT Project Manager |
+| Dates | 12/2025 – 04/2026 |
+| Budget | Vendor contract + internal labor |
+| Team Size | Cross-functional core team + vendor & review functions |
+| Methodology | Hybrid Stage-Gated |
+
+Profound is a Generative Engine Optimization (GEO) tool, effectively SEO for generative AI platforms, optimizing how Cigna's web content is surfaced and represented by LLM-based systems. The objective was to take the vendor solution from approved-for-evaluation through to a compliant production deployment on Cigna's websites.
+
+By the time the project reached me it had cleared initial legal, architecture, and information security approval. I led it through the rest: kicked off the team, charted a roadmap to comply with enterprise standards, and scheduled demo sessions with approvers to pass architecture and guardrail review. Much of the work was vendor-facing, eliciting the system information enterprise review needed out of Profound. I worked with legal to put the correct contracting addendums in place, defined the human approval roles and responsibilities for changes to key infrastructure, supported testing, and re-engaged the team when timelines slipped.
+
+**Outcome:** Delivered a compliant production rollout, passing architecture and guardrail review, with contracting addendums executed, a defined human approval model for infrastructure changes, and full stakeholder sign-off before go-live.
+
+---
+
+### 8. Adobe Veo — Generative AI Enablement Rollout
+**[View full project file](/Projects/2026_02_cigna-adobe-veo-rollout.md)**
+
+| Field | Detail |
+|---|---|
+| Organization | Cigna |
+| Role | IT Project Manager |
+| Dates | 02/2026 – 05/2026 |
+| Budget | Vendor package + internal labor |
+| Team Size | Cross-functional core team + vendor & review functions |
+| Methodology | Hybrid Stage-Gated |
+
+Adobe Veo is a generative AI package that sits on top of the existing Adobe product suite, using either your own models or Adobe's custom models to generate images and touch up features for ad copy. The objective was to take the vendor solution through enterprise readiness to a compliant production deployment for marketing and creative use.
+
+Like the other vendor work, it reached me after initial approval. I charted the compliance roadmap, ran the approver demos, and worked the vendor and legal angles. The defining challenge was a mid-project stakeholder change: our chief architect changed roles partway through, which shifted the architecture stakeholder set. Rather than treat it as a reset, I brought the incoming stakeholders up to speed, made the reviews we had already passed legible to people who had not been in the room, and kept us moving through the remaining gates.
+
+**Outcome:** Delivered a compliant production rollout, absorbing a mid-project chief architect transition without losing review momentum, with contracting and data-handling terms in place, a defined human approval model, and stakeholder sign-off before go-live.
+
+> Adobe Veo overlaps the Profound rollout (Feb–Apr 2026) and is documented as additional evidence above the 36-month requirement. The requirement is met by projects 1–7 without overlap.
 
 ---
 

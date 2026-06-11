@@ -16,7 +16,7 @@
 | **Project Team Size** | 4 (self as sole initial developer; scaled to 3 with 2 HIH team members; plus clinical stakeholder Dr. Steven Perez, Head MD of MDLive) |
 | **Project Budget** | $500,000–$1,000,000 USD (estimated — engineering labor, Azure OpenAI API consumption, DevOps infrastructure, and compliance overhead across 14-month active delivery period) |
 | **Project Start Date** | 08/2024 |
-| **Project End Date** | 04/2025 (MVP + full delivery; 6-month advisory/transition to HIH team follows) |
+| **Project End Date** | 03/2025 (MVP + full delivery; 6-month advisory/transition to HIH team follows) |
 | **Duration (months)** | 8 (active lead delivery; advisory transition period not counted to avoid inflation) |
 | **Counts Toward PMP Months** | Yes — 8 months (no overlap with other documented projects) |
 
